@@ -23,7 +23,7 @@ A modern, responsive website showcasing **NextWave Innovations** — a tech comp
 - **Contact**: Email and subscription form.
 
 ## 🌍 Live Demo
-[View Site on Netlify](https://your-site-name.netlify.app)
+[View Site on Netlify](https://nextwavesite.netlify.app/
 
 ## 📧 Contact
 - Email: abdulkadirbakar39@gmail.com
